@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "FirstSemesterMarat.sln",
+    "projects": [
+      "..\\..\\..\\Source\\Repos\\NetCoreAjax\\NetCoreAjax\\FirstSemesterMarat.csproj"
+    ]
+  }
+}
