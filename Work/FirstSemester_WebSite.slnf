@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\Source\\Repos\\NetCoreAjax\\NetCoreAjax.sln",
+    "projects": [
+      "NetCoreAjax\\NetCoreAjax.csproj"
+    ]
+  }
+}
